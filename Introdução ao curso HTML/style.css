@@ -1,5 +1,7 @@
 body{
     background: #ccc;
+    margin: auto;
+    max-width: 900px;
 }
 
 .box_post{
@@ -16,6 +18,8 @@ body{
 
 #title{
     color: orange;
+    font-family: Verdana; 
+    text-align: center; 
 }
 
 
