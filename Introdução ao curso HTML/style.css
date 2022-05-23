@@ -2,17 +2,19 @@ body{
     background: #ccc;
     margin: auto;
     max-width: 900px;
+    font-family: verdana;
 }
 
 .box_post{
     background: orange;
     padding: 20px;
-    margin: 5px;
+    margin-bottom: 15px;
 
 }
 
 .foto_dev{
     width: 100%;
+    
 }
 
 
@@ -20,10 +22,29 @@ body{
     color: orange;
     font-family: Verdana; 
     text-align: center; 
+    margin: 0;
 }
 
 
 .subtitle {
     color: rgb(11, 11, 11);
+
+}
+
+.footer{
+    margin:0;
+    padding: 0;
+}
+
+.contacts_title{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+.contacts_list{
+    text-decoration: none;
+    margin: 0;
+    padding: 15px;
 
 }
