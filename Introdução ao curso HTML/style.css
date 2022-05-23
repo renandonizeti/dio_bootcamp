@@ -1,0 +1,25 @@
+body{
+    background: #ccc;
+}
+
+.box_post{
+    background: orange;
+    padding: 20px;
+    margin: 5px;
+
+}
+
+.foto_dev{
+    width: 100%;
+}
+
+
+#title{
+    color: orange;
+}
+
+
+.subtitle {
+    color: rgb(11, 11, 11);
+
+}
